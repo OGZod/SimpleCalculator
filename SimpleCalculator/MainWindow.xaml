@@ -8,8 +8,10 @@
             <Button Content="7" Click="Button_Click"/>
             <Button Content="8" Click="Button_Click"/>
             <Button Content="9" Click="Button_Click"/>
+              <Button Content="9" Click="Button_Click"/>
+                <Button Content="9" Click="Button_Click"/>
+                <Button Content="9" Click="Button_Click"/>
             <Button Content="/" Click="Operator_Click"/>
-
             <Button Content="4" Click="Button_Click"/>
             <Button Content="5" Click="Button_Click"/>
             <Button Content="6" Click="Button_Click"/>
